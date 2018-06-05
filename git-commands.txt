@@ -1,0 +1,7 @@
+1) git init - It initialize the repository and it make a hidden folder in the git folder.
+2) git status - It checks the status of files.It tells how many files are in the repositories.
+3) git config --global user.name "rajat0786" - It introduce our name to git.
+4) git config --global user.email "rajat9779828014@gmail.com" - it introduce our email to git. it neends to write only once in entire program.
+5)git add name - it will track particular reportory.
+6) git add . - it will track all reportory.
+7) git commit -m "message"- it saves and add message to the file.
